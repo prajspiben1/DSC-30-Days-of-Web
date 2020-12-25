@@ -8,7 +8,6 @@
         <header>
           <h1>BARE BONES PORTFOLIO WEBSITE</h1>
         </header>
-
         <form>
             <label for="fname">First name:</label><br>
             <input type="text" id="fname" name="fname" ><br>
@@ -47,10 +46,8 @@
          <h2>Video</h2>
          <video width="320" height="240" controls>
             <source src=".mp4" type="video/mp4">
-            
           </video><br>
           <img src=".png" alt="alternatetext">
-
           <footer>
               this is footer
           </footer>
